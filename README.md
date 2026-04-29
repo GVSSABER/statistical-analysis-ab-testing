@@ -1,10 +1,13 @@
 # Statistical Analysis (A/B Testing)
 
+## 📖 Project Overview
+This project uses statistical methods to evaluate business decisions through hypothesis testing.
+
 ## 📌 Problem Statement
-Determine whether there is a significant difference between two business groups.
+Businesses need reliable methods to validate decisions and avoid incorrect assumptions.
 
 ## 🎯 Objective
-To apply statistical methods for decision-making.
+To apply statistical techniques such as t-test and chi-square test.
 
 ## 🛠 Tools & Technologies
 - Python
@@ -12,20 +15,21 @@ To apply statistical methods for decision-making.
 - NumPy
 
 ## 📊 Dataset
-Experimental or business test data
+Experimental / business data
 
 ## ⚙️ Approach
-- Hypothesis formulation (H0, H1)
-- Performed t-test and chi-square test
+- Defined hypotheses (H0, H1)
+- Conducted t-test and chi-square test
 - Calculated confidence intervals
 - Interpreted results
 
 ## 📈 Key Results
-- Identified statistical significance between groups
+- Determined statistical significance between groups
 
 ## 💡 Business Insights
-- Data-driven decisions reduce business risk
-- A/B testing improves performance analysis
+- Data-driven decisions reduce uncertainty
+- A/B testing helps identify better-performing strategies
+- Statistical validation improves business outcomes
 
 ## 🚀 Conclusion
-Shows ability to make decisions using statistics.
+This project demonstrates the use of statistics for decision-making.
